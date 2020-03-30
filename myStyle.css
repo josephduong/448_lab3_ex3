@@ -1,0 +1,38 @@
+p
+{
+    background-color: #b3ffd9;
+    color: #000033;
+    font-family: Georgia;
+    font-size: 22pt;
+
+}
+
+p.explain
+{
+  background-color: #ffbb99;
+  color: #000033;
+  font-family: Georgia;
+  font-size: 22pt;
+}
+
+body
+{
+    background-color: #b3d9ff;
+    background-image: url(meadow.jpg);
+    background-size: 100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
+
+a
+{
+    background-color: #b3ffd9;
+    color: blue;
+    font-size: 22pt
+}
+
+a:hover
+{
+    background-color: b3d9ff;
+    color: blue
+}
